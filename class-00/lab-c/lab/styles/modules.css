@@ -96,7 +96,6 @@ input {
   line-height: 31px;
 }
 
-
 aside img {
   float: left;
 }
@@ -113,7 +112,6 @@ aside p {
   width: 65%;
   margin: 0;
   text-indent: 0;
-
 }
 
 aside button {
@@ -132,3 +130,9 @@ section hr {
   height: 0;
 }
 
+footer section p{
+  padding: 50px 0;
+  line-height: 1.5em;
+  text-align: center;
+  color: #aaa;
+}
